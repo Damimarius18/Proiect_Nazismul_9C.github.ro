@@ -105,3 +105,10 @@ td {
   width: 200px;
   height: 200px;
 }
+.fin {
+  margin-right: 445px;
+  float: right;
+}
+#finl {
+  margin-left: 440px;
+}
